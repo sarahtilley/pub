@@ -1,8 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -419,21 +423,41 @@ h6,
   opacity: 0 !important;
 }
 #header1-1 .mbr-section-title {
-  color: #ffffff;
+  color: #ffcd00;
   font-family: 'Oswald', sans-serif;
 }
 #header1-1 .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
   font-size: 22px;
 }
+#header1-1 .mbr-section-lead SPAN {
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+}
 #features3-9 H4 {
   font-family: 'Oswald', sans-serif;
+  color: #232323;
 }
 #features3-9 .btn {
   font-family: 'Oswald', sans-serif;
 }
 #features3-9 P {
   font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#contacts4-x SPAN {
+  color: #f3c649;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts4-x P {
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts4-x .btn {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
 }
 
 #menu-f .hide-buttons .nav-btn {
